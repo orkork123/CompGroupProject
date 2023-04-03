@@ -18,5 +18,9 @@ public class SanityText : MonoBehaviour
     void Update()
     {
         SanityNumberText.text = BeginSanity.ToString("0");
+        if (BeginSanity <= 0)
+        {
+            BeginSanity = 0;
+        }
     }
 }

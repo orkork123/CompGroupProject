@@ -21,6 +21,7 @@ public class CountdownTimer : MonoBehaviour
         CountdownText.text = currentTime.ToString("0");
 
         if (currentTime <= 0 ){
+            Application.LoadLevel("GameStart");
             currentTime = 0;
         }
     }

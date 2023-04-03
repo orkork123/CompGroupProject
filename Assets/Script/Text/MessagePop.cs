@@ -8,7 +8,7 @@ public class MessagePop : MonoBehaviour
     public GameObject Message;
     public MoneyText Moneytext;
     public SanityText Sanitytext;
-    public float Speed = 1;
+    public float Speed = 0.5f;
 
     private void OnTriggerEnter2D(Collider2D other)
     {

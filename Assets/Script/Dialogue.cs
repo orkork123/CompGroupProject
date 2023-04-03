@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
+using UnityEngine.UI;
 
 public class Dialogue : MonoBehaviour
 {
@@ -9,18 +10,22 @@ public class Dialogue : MonoBehaviour
     public string[] lines;
     public float textSpeed;
     public GameObject NPC;
+
+    public int INDEX;
     
-    private Sprite FirstSprite, SecondSprite;
+    public Sprite FirstSprite, SecondSprite;
 
     private SpriteRenderer rend;
+
+    public string SceneName;
 
     private int index;
     // Start is called before the first frame update
     void Start()
     {
         rend = NPC.GetComponent<SpriteRenderer>();
-        FirstSprite = Resources.Load<Sprite>("Teacher");
-        SecondSprite = Resources.Load<Sprite>("ClockIcon");
+        //FirstSprite = Resources.Load<Sprite>("Teacher");
+        //SecondSprite = Resources.Load<Sprite>("ClockIcon");
         textComponent.text = string.Empty;
         StartDialogue();
     }
@@ -68,9 +73,10 @@ public class Dialogue : MonoBehaviour
         else
         {
             gameObject.SetActive(false);
+            Application.LoadLevel(SceneName);
         }
 
-        if (index == 1)
+        if (index == INDEX)
         {
             rend.sprite = SecondSprite;
         }

@@ -19,6 +19,6 @@ public class BeginScene : MonoBehaviour
 
     public void ChangeScene()
     {
-        SceneManager.LoadScene("FirstStage");
+        SceneManager.LoadScene("FirstStageStory");
     }
 }

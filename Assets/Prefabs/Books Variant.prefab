@@ -23,6 +23,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Books Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 7270804085751920579, guid: 0a428653cbaf3e846a154dcfe8bc4bc8, type: 3}
+      propertyPath: m_TagString
+      value: Enemy
+      objectReference: {fileID: 0}
     - target: {fileID: 7270804085751920591, guid: 0a428653cbaf3e846a154dcfe8bc4bc8, type: 3}
       propertyPath: m_RootOrder
       value: 0

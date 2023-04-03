@@ -6,6 +6,8 @@ public class EnemyBounce : MonoBehaviour
 {
     private Rigidbody2D rb;
     public Player PlayerObject;
+    public SanityText Sanitytext;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -29,7 +31,6 @@ public class EnemyBounce : MonoBehaviour
         if (colInfo.collider.tag == "Player")
         {
             //Destroy(colInfo.gameObject);
-            Debug.Log("Player Hit!");
         }
     }
 }

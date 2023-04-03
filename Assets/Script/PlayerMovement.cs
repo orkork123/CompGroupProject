@@ -10,6 +10,10 @@ public class PlayerMovement : MonoBehaviour
 
     public Rigidbody2D rb;
     public Animator animator;
+    public SanityText Sanitytext;
+    public MoneyText Moneytext;
+    
+    public GameObject Wall;
 
     Vector2 movement;
 
@@ -22,6 +26,12 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("Horizontal", movement.x);
         animator.SetFloat("Vertical", movement.y);
         animator.SetFloat("Speed", movement.sqrMagnitude);
+
+        if (Input.GetKeyDown("space"))
+        {
+            Moneytext.BeginMoney -= 10;
+            Instantiate(Wall, transform.position, Quaternion.identity);
+        }
     }
 
     void FixedUpdate()
@@ -29,4 +39,13 @@ public class PlayerMovement : MonoBehaviour
         rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
     }
 
+    void OnCollisionEnter2D(Collision2D colInfo)
+    {
+        if (colInfo.collider.tag == "Enemy")
+        {
+            Sanitytext.BeginSanity -= 1;
+            Destroy(colInfo.gameObject);
+            Debug.Log("YOOOOOOOO");
+        }
+    }
 }

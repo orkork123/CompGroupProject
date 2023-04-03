@@ -316,15 +316,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Character_5: -210081198
-      Character_7: -1042682048
-      Character_1: -1782151300
-      Character_6: -1324837552
-      Character_8: 15103432
-      Character_3: -1691360531
       Character_0: -493265275
+      Character_1: -1782151300
       Character_2: 682274094
+      Character_3: -1691360531
       Character_4: -290060231
+      Character_5: -210081198
+      Character_6: -1324837552
+      Character_7: -1042682048
+      Character_8: 15103432
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

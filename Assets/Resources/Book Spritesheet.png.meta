@@ -463,21 +463,21 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      Book Spritesheet_0: 501254223
+      Book Spritesheet_1: -1161697840
+      Book Spritesheet_10: -429556114
+      Book Spritesheet_11: -78054980
+      Book Spritesheet_12: 207649345
+      Book Spritesheet_13: 1853904312
+      Book Spritesheet_14: 2135640233
+      Book Spritesheet_15: -42516284
+      Book Spritesheet_2: 1854965205
+      Book Spritesheet_3: -1257745224
       Book Spritesheet_4: -894961907
       Book Spritesheet_5: 754908256
-      Book Spritesheet_10: -429556114
-      Book Spritesheet_12: 207649345
-      Book Spritesheet_15: -42516284
-      Book Spritesheet_3: -1257745224
-      Book Spritesheet_13: 1853904312
-      Book Spritesheet_2: 1854965205
-      Book Spritesheet_14: 2135640233
-      Book Spritesheet_0: 501254223
       Book Spritesheet_6: 494981694
-      Book Spritesheet_1: -1161697840
-      Book Spritesheet_11: -78054980
-      Book Spritesheet_8: -502722473
       Book Spritesheet_7: 1046794987
+      Book Spritesheet_8: -502722473
       Book Spritesheet_9: -1146638305
   spritePackingTag: 
   pSDRemoveMatte: 0

@@ -1,0 +1,2235 @@
+fileFormatVersion: 2
+guid: c1e80c6e1952845c693ae58be4174b97
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 504
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dd9dcfcb5124f1cba7f6cda950f909
+      internalID: 1358671927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 504
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ff8f3507dcc4134a683530f8051faf
+      internalID: 974045556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 504
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed0812505bac4302b2b960fa54e2f8d
+      internalID: 2093549314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 504
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c5fa528c09e40fb84d257a6d9aefcd
+      internalID: -841396533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 504
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0846c8ce573cd4c6a80f25043ffae6c2
+      internalID: -141098676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_5
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 504
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1397ce8ab5ccf400db5d28fa068c2f74
+      internalID: 365360983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 504
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5c691aa1984483abf709bc1cb704ca
+      internalID: -1588930350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_7
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 504
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d492f1ee28dfa4644b89439250e4bed3
+      internalID: -1483694438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_8
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 504
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdfec7ae9464487384cee380a6c19a7
+      internalID: 1166231737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_9
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 504
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743284ddb94cc4f2f821c60a895ce266
+      internalID: 1530311131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_10
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 504
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e97bdbbbfb3440daccf98889bf9a2f
+      internalID: 815927220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_11
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 504
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0eec223e253424987babd62e3f581a
+      internalID: 271347811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 432
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcde3b87eb637411f81a8c6c55151161
+      internalID: -1973348543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 432
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9683aeea46b7d4654b23ce2b5e908e7b
+      internalID: -1150842544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 432
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284f9f6af81304a7bbfc1b1bf13f1d00
+      internalID: 2039208765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_15
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 432
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfb78921cbf04024bc4cccc6119aad2
+      internalID: -1490427776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 432
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab001bc0aff654468892aa7c0c332dd3
+      internalID: 855823136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_17
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 432
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7807c2d2077f042e9a304a64559454d2
+      internalID: 1015396635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_18
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 432
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b493b54bce5324a5b9931f8f9372354f
+      internalID: 1771240597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 432
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126da48f570a44f5485e85ec071e77f8
+      internalID: -9304132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_20
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 432
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4aa495db7b904067ba7bd1c5905ec74
+      internalID: -1498876141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_21
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 432
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6366a0d5808e44462aa3576b1d8a1d6e
+      internalID: 1056238141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_22
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 432
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de497128dc49d4a35840f7bcc02b0cbb
+      internalID: 1409984433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_23
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 432
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8246497e4c54443cc86203e3cdf28837
+      internalID: 1795924044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 360
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b468da94c8845cd85919ec1103d975
+      internalID: 689848287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 360
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9756c1244cd46488370ba30a9985af
+      internalID: -1467221159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 360
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5978b2941aa374884ae95778db086461
+      internalID: -1361035015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_27
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 360
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfa66f5977a747a39c537d462f27b18
+      internalID: 825858770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_28
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 360
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79d53140a57a457abb6a2abb2278faa
+      internalID: -2093925118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_29
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 360
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fccb6ad8f8224be89f3072cf9e11669
+      internalID: 1392706241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_30
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 360
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32107d9f8d3f4b0397ba04b47a86476
+      internalID: -1702213450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_31
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 360
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b99eaa15f2d04cf6a8331aa34bf8c21
+      internalID: -640283709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_32
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 360
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9810a24a911b4c838ac3fa321fa4e93
+      internalID: -1423598901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_33
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 360
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3f5fecc0f22457ab1759b4245c9fc8
+      internalID: 93295715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_34
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 360
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b424e622cb9af4331b582cf4893a259c
+      internalID: -1281458250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_35
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 360
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521943bfb4ea3431493da3c3292278df
+      internalID: 676855468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 288
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9421cfdf8dbc14ed6b02f15ba762b660
+      internalID: 1605620425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_37
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 288
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618a06cb5fc504c8aa4c73f9a3f41742
+      internalID: -367474501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_38
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 288
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2488233e4d24b478d8b0c2b8576a6c
+      internalID: 2143387522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_39
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 288
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fce556502ec49fc95fb6619d07702b
+      internalID: 184321484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_40
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 288
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f90cd8622244a459ff78ef2f229a29
+      internalID: -1926812365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_41
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 288
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcb4f65851184b7fbe39a9e5f5a823f
+      internalID: 1474076464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_42
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 288
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abd437da6672453780f64914424210f
+      internalID: 1330175784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_43
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 288
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ec94d3430a8403cb2b73f4561c951c
+      internalID: -773189241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_44
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 288
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4629218eedc643c4a6701e9abf68cd1
+      internalID: -1144470442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_45
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 288
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b28fd687b46451aa05363b28f890d8
+      internalID: 1713006909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_46
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 288
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7494f1d14a16f4b08b9b93103a5ebaaf
+      internalID: 1874670380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_47
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 288
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9468efdd5ced34b23a608127986710c0
+      internalID: 1586161790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 216
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8761b7dde9245c3901507110865aae
+      internalID: 83224411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_49
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 216
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f095b59fbfbf949fa98a7266a31bcf90
+      internalID: 1277816288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_50
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 216
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8801c95bdadde4f37877f9d15bc39a80
+      internalID: 728127611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_51
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 216
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7117bab91193e45e0aa2232a7bdb9ef6
+      internalID: -461097699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_52
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 216
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb61c93a7857841e9b63e21a85084d26
+      internalID: -468074138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_53
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 216
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62e24df228684aa19cb8f5ab1693f01
+      internalID: 128904311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_54
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 216
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cbe800f33384809aa41bce82245189
+      internalID: -1222369112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_55
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 216
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c475c4829288470898a458eeac1abdd
+      internalID: -750320052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_56
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 216
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcd8a94e31a74f95868948283f78268
+      internalID: 1565605404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_57
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 216
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3326d8ecf13f94b1f949a7d8b4a4116c
+      internalID: 346499904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_58
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 216
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3461506b6cb9d4dcd8ff9a292cea7a4d
+      internalID: -200202014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_59
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 216
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d5e8875890149fb8078c345ccbc95b
+      internalID: -804344965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 144
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118a5ee90d72849beaaad294e931e393
+      internalID: -1422027707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 144
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b16ea8fd6dd4d2ba6b75698bed899e
+      internalID: 1271614797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_62
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 144
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918b12fac4a4c4c4fbd70206b0c6bfc8
+      internalID: -591358391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_63
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 144
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7141ef0a0dc3a40a7801c01f83f5def0
+      internalID: 745185504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_64
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 144
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a8117f74ce64f96b2cf8fe30023979
+      internalID: 314283806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_65
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 144
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016999e71e9194629967f7e250d2bc5d
+      internalID: -500122095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_66
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 144
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adbc4dfdb30743f182b5c56f273846b
+      internalID: 1911095101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_67
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 144
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfc1fa8ced92492da3ea3c2cfd91ca1
+      internalID: -1443266337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_68
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 144
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330363b8fc1b74c6ea3929966066d027
+      internalID: 593483352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_69
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 144
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abeb19df206b4db1ba154d59757735b
+      internalID: 187556510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_70
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 144
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4144f1db08243ef9a2454d65d72953
+      internalID: 2023726264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_71
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 144
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21871d3bba6c4fcfacff8ef256f3573
+      internalID: -1403913796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 72
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e111624b906334bac86ceaf4190d26ed
+      internalID: 775830034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_73
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 72
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63a32809717642d49f1f631c8ba5a53
+      internalID: -1875561640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_74
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 72
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2f55dcac7a14cc7976880959812cb5
+      internalID: 128178311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_75
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 72
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe569b70a52b04320b6157574bad52ea
+      internalID: -551446875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_76
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 72
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73dbbf581d6c4c3ca497efa498e3cca
+      internalID: 495879126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_77
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 72
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee51fdb8e46e34876b23356f8ef610b9
+      internalID: 1763637918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_78
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 72
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b389c4d85ab4945ba81efd805704ee6e
+      internalID: -1919493427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_79
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 72
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72843b3166ca46c2a4c23b396aaa7b9
+      internalID: 373819355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_80
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 72
+        width: 32
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205847eaa51204fda91109c88bccd284
+      internalID: -461295702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_81
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 72
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d570dbc36167e492e929bf8ba71546c6
+      internalID: -1521505885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_82
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 72
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2d12bdcd40b43f09bbf6f66f87fb04
+      internalID: -17843834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_83
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 72
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8fc8cabbfc94db7853fc29d4901832
+      internalID: -1139457875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_84
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34cdd6025b084659a52150ce18be6ee
+      internalID: -1738013065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_85
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5431460df119447aa899de6a1fc467f4
+      internalID: 1826042477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_86
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0feb59f8df6434cb48f2fcc9c5f41772
+      internalID: 1570306133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_87
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d035ba5f5208d47e699cf8275af5b4e8
+      internalID: 1983563815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_88
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a12dbc8a235a44f68be1092ea6a517c
+      internalID: 105992863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_89
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838fdc5000d394615a01a74f00ce5310
+      internalID: 912543033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_90
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8eda9c8dbc6479cbd7c18b81acae3d
+      internalID: 1713573476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_91
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73783443dff634f96aeb74ef6b8622b3
+      internalID: 1155910158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_92
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 0
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f76c025018e4b16a9305f855f98657
+      internalID: 1314230915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_93
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 0
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8756cf90706648dd882d077c92d48c7
+      internalID: 974372986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_94
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 0
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8dfae54192e41f2ad1b39005facaab
+      internalID: 943424584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PikPng.com_rpg-png_2886473_95
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 0
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7dc0643b28b45649458ac6b5cba982
+      internalID: -1779046414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PikPng.com_rpg-png_2886473_0: 1358671927
+      PikPng.com_rpg-png_2886473_1: 974045556
+      PikPng.com_rpg-png_2886473_10: 815927220
+      PikPng.com_rpg-png_2886473_11: 271347811
+      PikPng.com_rpg-png_2886473_12: -1973348543
+      PikPng.com_rpg-png_2886473_13: -1150842544
+      PikPng.com_rpg-png_2886473_14: 2039208765
+      PikPng.com_rpg-png_2886473_15: -1490427776
+      PikPng.com_rpg-png_2886473_16: 855823136
+      PikPng.com_rpg-png_2886473_17: 1015396635
+      PikPng.com_rpg-png_2886473_18: 1771240597
+      PikPng.com_rpg-png_2886473_19: -9304132
+      PikPng.com_rpg-png_2886473_2: 2093549314
+      PikPng.com_rpg-png_2886473_20: -1498876141
+      PikPng.com_rpg-png_2886473_21: 1056238141
+      PikPng.com_rpg-png_2886473_22: 1409984433
+      PikPng.com_rpg-png_2886473_23: 1795924044
+      PikPng.com_rpg-png_2886473_24: 689848287
+      PikPng.com_rpg-png_2886473_25: -1467221159
+      PikPng.com_rpg-png_2886473_26: -1361035015
+      PikPng.com_rpg-png_2886473_27: 825858770
+      PikPng.com_rpg-png_2886473_28: -2093925118
+      PikPng.com_rpg-png_2886473_29: 1392706241
+      PikPng.com_rpg-png_2886473_3: -841396533
+      PikPng.com_rpg-png_2886473_30: -1702213450
+      PikPng.com_rpg-png_2886473_31: -640283709
+      PikPng.com_rpg-png_2886473_32: -1423598901
+      PikPng.com_rpg-png_2886473_33: 93295715
+      PikPng.com_rpg-png_2886473_34: -1281458250
+      PikPng.com_rpg-png_2886473_35: 676855468
+      PikPng.com_rpg-png_2886473_36: 1605620425
+      PikPng.com_rpg-png_2886473_37: -367474501
+      PikPng.com_rpg-png_2886473_38: 2143387522
+      PikPng.com_rpg-png_2886473_39: 184321484
+      PikPng.com_rpg-png_2886473_4: -141098676
+      PikPng.com_rpg-png_2886473_40: -1926812365
+      PikPng.com_rpg-png_2886473_41: 1474076464
+      PikPng.com_rpg-png_2886473_42: 1330175784
+      PikPng.com_rpg-png_2886473_43: -773189241
+      PikPng.com_rpg-png_2886473_44: -1144470442
+      PikPng.com_rpg-png_2886473_45: 1713006909
+      PikPng.com_rpg-png_2886473_46: 1874670380
+      PikPng.com_rpg-png_2886473_47: 1586161790
+      PikPng.com_rpg-png_2886473_48: 83224411
+      PikPng.com_rpg-png_2886473_49: 1277816288
+      PikPng.com_rpg-png_2886473_5: 365360983
+      PikPng.com_rpg-png_2886473_50: 728127611
+      PikPng.com_rpg-png_2886473_51: -461097699
+      PikPng.com_rpg-png_2886473_52: -468074138
+      PikPng.com_rpg-png_2886473_53: 128904311
+      PikPng.com_rpg-png_2886473_54: -1222369112
+      PikPng.com_rpg-png_2886473_55: -750320052
+      PikPng.com_rpg-png_2886473_56: 1565605404
+      PikPng.com_rpg-png_2886473_57: 346499904
+      PikPng.com_rpg-png_2886473_58: -200202014
+      PikPng.com_rpg-png_2886473_59: -804344965
+      PikPng.com_rpg-png_2886473_6: -1588930350
+      PikPng.com_rpg-png_2886473_60: -1422027707
+      PikPng.com_rpg-png_2886473_61: 1271614797
+      PikPng.com_rpg-png_2886473_62: -591358391
+      PikPng.com_rpg-png_2886473_63: 745185504
+      PikPng.com_rpg-png_2886473_64: 314283806
+      PikPng.com_rpg-png_2886473_65: -500122095
+      PikPng.com_rpg-png_2886473_66: 1911095101
+      PikPng.com_rpg-png_2886473_67: -1443266337
+      PikPng.com_rpg-png_2886473_68: 593483352
+      PikPng.com_rpg-png_2886473_69: 187556510
+      PikPng.com_rpg-png_2886473_7: -1483694438
+      PikPng.com_rpg-png_2886473_70: 2023726264
+      PikPng.com_rpg-png_2886473_71: -1403913796
+      PikPng.com_rpg-png_2886473_72: 775830034
+      PikPng.com_rpg-png_2886473_73: -1875561640
+      PikPng.com_rpg-png_2886473_74: 128178311
+      PikPng.com_rpg-png_2886473_75: -551446875
+      PikPng.com_rpg-png_2886473_76: 495879126
+      PikPng.com_rpg-png_2886473_77: 1763637918
+      PikPng.com_rpg-png_2886473_78: -1919493427
+      PikPng.com_rpg-png_2886473_79: 373819355
+      PikPng.com_rpg-png_2886473_8: 1166231737
+      PikPng.com_rpg-png_2886473_80: -461295702
+      PikPng.com_rpg-png_2886473_81: -1521505885
+      PikPng.com_rpg-png_2886473_82: -17843834
+      PikPng.com_rpg-png_2886473_83: -1139457875
+      PikPng.com_rpg-png_2886473_84: -1738013065
+      PikPng.com_rpg-png_2886473_85: 1826042477
+      PikPng.com_rpg-png_2886473_86: 1570306133
+      PikPng.com_rpg-png_2886473_87: 1983563815
+      PikPng.com_rpg-png_2886473_88: 105992863
+      PikPng.com_rpg-png_2886473_89: 912543033
+      PikPng.com_rpg-png_2886473_9: 1530311131
+      PikPng.com_rpg-png_2886473_90: 1713573476
+      PikPng.com_rpg-png_2886473_91: 1155910158
+      PikPng.com_rpg-png_2886473_92: 1314230915
+      PikPng.com_rpg-png_2886473_93: 974372986
+      PikPng.com_rpg-png_2886473_94: 943424584
+      PikPng.com_rpg-png_2886473_95: -1779046414
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
